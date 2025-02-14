@@ -17,4 +17,4 @@ images:
   - name: docker.io/library/postgres
     newTag: 17.3-alpine
   - name: docker.io/library/alpine
-    newTag: 3.21.2
+    newTag: 3.21.3
